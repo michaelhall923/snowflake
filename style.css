@@ -1,8 +1,8 @@
 body {
-  overflow:hidden;
-  margin: 0;
+    overflow: hidden;
+    margin: 0;
 }
 
 #canvas {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
